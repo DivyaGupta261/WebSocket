@@ -1,0 +1,17 @@
+{
+  "name": "WebSocketSimulation",
+  "version": "1.0.0",
+  "description": "WEB SOCKET SIMULATION USING NODE.JS AND BACKBONE.JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node node/index.js;",
+    "server": "python -m SimpleHTTPServer"
+  },
+  "author": "Divya Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.14.0",
+    "request": "^2.74.0" ,
+    "nodejs-websocket" :"1.7.0"
+  }
+}
