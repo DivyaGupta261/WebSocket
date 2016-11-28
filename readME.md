@@ -49,6 +49,6 @@ Tools Used:
 
 1. npm
 
-![alt text](https://raw.githubusercontent.com/DivyaGupta261/WebSocket/master/img/ron3.png)
+![alt text](https://github.com/DivyaGupta261/WebSocket/blob/master/img/ron3.jpg?raw=true)
 
 Divya Gupta
